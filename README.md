@@ -13,8 +13,8 @@
 ### I am...
 * 🔭 Currently working on **[Social Media App (timeless)](https://github.com/BlackDranzer777/social-media-app)**
 * 🔭 Currently working on **[Dobby (a chatbot)](https://github.com/BlackDranzer777/Dobby)**
-* 🌱 Currently learning French and preparing for DELF B1**
-* 🌱 Currently learning React**
+* 🌱 Currently learning French and preparing for DELF B1
+* 🌱 Currently learning React
 * 🎓 Graduate of Poornima College of Engineering (2016-2020)
 * 📄 Get to know more about me **[CV](https://github.com/BlackDranzer777)**
 
@@ -28,7 +28,7 @@
 
 <img align="left" src="icons/nodejs-icon.svg"  margin="10px" width="35px"/>
 <img align="left" src="icons/react.svg" margin="10px" width="35px" />
-<img align="left" src="icons/expressjs.png" margin="10px" width="95px" />
+<img align="left" src="icons/expressjs.png" margin="10px" width="110px" />
 <img align="left" src="icons/logo-javascript.svg" margin="10px" width="35px"/> 
 <img align="left" src="icons/python.png" margin="10px" width="35px" />
 <img align="left" src="icons/php.svg"   margin="10px" width="55px"/>
@@ -38,7 +38,7 @@
 <img align="left" src="icons/botframework.png" margin="10px" width="35px" />
 <img align="left" src="icons/bootstrap.svg" margin="10px" width="35px" />
 <img align="left" src="icons/visual-studio-code.svg"   margin="10px" width="35px"/>
-<img align="left" src="icons/docker.png"   margin="10px" width="35px"/>
+<img align="left" src="icons/docker.png"   margin="10px" width="45px"/>
 
 
 <br />
