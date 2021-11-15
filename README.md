@@ -32,9 +32,13 @@
 
 <img align="left" src="icons/nodejs-icon.svg"  margin="10px" width="35px"/>
 <img align="left" src="icons/react.svg" margin="10px" width="35px" />
-<img align="left" src="icons/express.png" margin="10px" width="35px" />
+<img align="left" src="icons/expressjs.png" margin="10px" width="35px" />
 <img align="left" src="icons/logo-javascript.svg" margin="10px" width="35px"/> 
 <img align="left" src="icons/python.png" margin="10px" width="35px" />
+<img align="left" src="icons/azure.png" margin="10px" width="35px" />
+<img align="left" src="icons/wit.png" margin="10px" width="35px" />
+<img align="left" src="icons/luis.png" margin="10px" width="35px" />
+<img align="left" src="icons/botframework.png" margin="10px" width="35px" />
 <img align="left" src="icons/bootstrap.svg" margin="10px" width="35px" />
 <img align="left" src="icons/visual-studio-code.svg"   margin="10px" width="35px"/>
 <!-- <img align="left" src="icons/typescript.svg" /> -->
