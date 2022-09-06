@@ -16,7 +16,7 @@
 * 🌱 Currently learning French and preparing for DELF B1
 * 🌱 Currently learning React
 * 🎓 Graduate of Poornima College of Engineering (2016-2020)
-* 📄 Get to know more about me from my **[Portfolio](http://divyanshjain-portfolio.herokuapp.com/)**
+* 📄 Get to know more about me from my **[Portfolio](https://divyanshjain.xyz)**
 
 <!-- ### Recent achievements and Certifications 🏆 -->
 
