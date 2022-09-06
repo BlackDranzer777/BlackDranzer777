@@ -11,8 +11,8 @@
 <a href="https://www.linkedin.com/in/divyanshjain777/" target="blank"><img align="center" src="icons/linkedin.svg" alt="Divyansh" width="22px" /></a>
 <br />
 ### I am...
-* 🔭 Currently working on **[Social Media App (timeless)](https://github.com/BlackDranzer777/social-media-app)**
-* 🔭 Currently working on **[Dobby (a chatbot)](https://github.com/BlackDranzer777/Dobby)**
+* 🎹 learning to play keyboard
+* 🔭 Currently working on **[NFT Drop Project]()**
 * 🌱 Currently learning French and preparing for DELF B1
 * 🌱 Currently learning React
 * 🎓 Graduate of Poornima College of Engineering (2016-2020)
