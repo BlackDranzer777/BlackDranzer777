@@ -13,7 +13,7 @@
 ### I am...
 * 🎹 learning to play keyboard
 * 🔭 Currently working on **[NFT Drop Project]()**
-* 🌱 Currently learning French and preparing for DELF B1
+* 🇫🇷 Francophone (DELF B1)
 * 🌱 Currently learning React
 * 🎓 Graduate of Poornima College of Engineering (2016-2020)
 * 📄 Get to know more about me from my **[Portfolio](https://divyanshjain.xyz)**
