@@ -1,5 +1,5 @@
 <!-- - 👋 Hi, I’m @BlackDranzer777
-- 👀 I’m interested in Software Development, Chatbot Development and Block Chain.
+- 👀 I’m interested in Mobile App Development, Chatbot Development and Block Chain.
 - 🌱 I’m currently learning React.
 - 📫 Reach me out at my e-mail divyanshjn23@gmail.com -->
 
