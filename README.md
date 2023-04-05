@@ -1,6 +1,6 @@
 <!-- - 👋 Hi, I’m @BlackDranzer777
-- 👀 I’m interested in Mobile App Development, Chatbot Development and Block Chain.
-- 🌱 I’m currently learning React.
+- 👀 I’m interested in 3D Modelling, AR/VR and Block Chain.
+- 🌱 I’m currently learning react-three-fiber.
 - 📫 Reach me out at my e-mail divyanshjn23@gmail.com -->
 
 
@@ -12,9 +12,10 @@
 <br />
 ### I am...
 * 🎹 learning to play keyboard
-* 🔭 Currently working on **[NFT Drop Project]()**
+<!-- * 🔭 Currently working on **[few three.js or WebGL projects]()** -->
+* 🔭 Currently working on few three.js or WebGL projects
 * 🇫🇷 Francophone (DELF B1)
-* 🌱 Currently learning React
+* 🌱 Currently learning react-three-fiber/Three.JS and 3D modelling
 * 🎓 Graduate of Poornima College of Engineering (2016-2020)
 * 📄 Get to know more about me from my **[Portfolio](https://divyanshjain.xyz)**
 
