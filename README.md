@@ -50,9 +50,9 @@
 <!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/languages.svg) -->
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues -->
 
-<a href="https://github.com/BlackDranzer777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=transparent&hide=contribs,issues,prs" />
-</a>
+<!-- <a href="https://github.com/BlackDranzer777/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=transparent&hide=contribs,issues,prs" />
+</a> -->
 <br />
 <br />
 <a href="https://github.com/BlackDranzer777/github-readme-stats">
