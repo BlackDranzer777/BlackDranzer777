@@ -12,7 +12,6 @@
 <br />
 ### I am...
 * 🏫 Currently pursuing my masters degree in Mobile Mapping and Navigation Systems from Warsaw University of Technology
-<!-- * 🔭 Currently working on **[few three.js or WebGL projects]() -->
 * 🔭 Currently working on few three.js or WebGL projects
 * 🇫🇷 Francophone (DELF B1)
 * 🌱 Currently learning react-three-fiber/Three.JS and 3D modelling
