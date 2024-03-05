@@ -56,7 +56,7 @@
 <br />
 <br />
 <a href="https://github.com/BlackDranzer777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=transparent&hide=contribs,issues" />
 </a>
 
 
