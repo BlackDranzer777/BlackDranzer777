@@ -51,12 +51,12 @@
 <!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues -->
 
 <a href="https://github.com/BlackDranzer777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=midnight-blue&hide=contribs,issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=transparent&hide=contribs,issues,prs" />
 </a>
 <br />
 <br />
 <a href="https://github.com/BlackDranzer777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDranzer777&layout=pie&theme=transparent" />
 </a>
 
 
