@@ -5,7 +5,7 @@
 
 
 <h2 align="center">Hi 👋, I'm Divyansh Jain</h2>
-<h3 align="center" style="font-size:20px;">Developer</h3>
+<h3 align="center" style="font-size:20px;">Full Stack Engineer</h3>
 
 
 <a href="https://www.linkedin.com/in/divyanshjain777/" target="blank"><img align="center" src="icons/linkedin.svg" alt="Divyansh" width="22px" /></a>
