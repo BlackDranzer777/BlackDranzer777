@@ -11,7 +11,7 @@
 <a href="https://www.linkedin.com/in/divyanshjain777/" target="blank"><img align="center" src="icons/linkedin.svg" alt="Divyansh" width="22px" /></a>
 <br />
 ### I am...
-* 🏫 Currently pursuing my masters degree in Mobile Mapping and Navigation Systems from Warsaw University of Technology
+* 🏫 Currently pursuing my masters degree in IT from Warsaw University of Technology
 <!-- * 🔭 Currently working on few three.js or WebGL projects -->
 * 🌱 Currently learning react-three-fiber/Three.JS and 3D modelling
 * 🎓 Graduate of Poornima College of Engineering (2016-2020)
