@@ -4,7 +4,7 @@
 - 📫 Reach me out at my e-mail divyanshjn23@gmail.com -->
 
 
-<h2 align="center">Hi 👋, I'm Divyansh Jain</h2>
+<h2 align="center">Hi 👋, I'm BlackDranzer</h2>
 <!-- <h3 align="center" style="font-size:20px;">Full Stack Engineer</h3> -->
 
 
