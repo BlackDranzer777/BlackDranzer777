@@ -41,9 +41,5 @@
   <img src="icons/botframework.png" width="35px" />
 </p>
 
----
-
-
----
 
 ⭐ *I enjoy building clean, practical solutions and continuously improving my engineering fundamentals.*
