@@ -14,7 +14,6 @@
 * 🎓 Currently pursuing my masters degree in IT from Warsaw University of Technology
 <!-- * 🔭 Currently working on few three.js or WebGL projects -->
 * 🌱 Currently learning react-three-fiber/Three.JS and 3D modelling)
-* 🇫🇷 Francophone (DELF B1)
 * 🎹 learning to play keyboard
 * 📄 Get to know more about me from my **[Portfolio](https://divyansh-jain.xyz)**
 
