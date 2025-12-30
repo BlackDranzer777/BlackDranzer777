@@ -1,64 +1,54 @@
-<!-- - 👋 Hi, I’m @BlackDranzer777
-- 👀 I’m interested in 3D Modelling, AR/VR and Block Chain.
-- 🌱 I’m currently learning react-three-fiber.
-- 📫 Reach me out at my e-mail divyanshjn23@gmail.com -->
+<h2 align="center">Hi 👋, I'm Divyansh (aka BlackDranzer)</h2>
+<h4 align="center">Full-Stack Developer | React • Node.js • Python</h4>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/divyanshjain777/" target="_blank">
+    <img src="icons/linkedin.svg" alt="LinkedIn" width="22px" />
+  </a>
+</p>
 
-<h2 align="center">Hi 👋, I'm BlackDranzer</h2>
-<!-- <h3 align="center" style="font-size:20px;">Full Stack Engineer</h3> -->
+---
 
+### 👨‍💻 About Me
+- 🎓 Master’s student in **Information Technology** at **Warsaw University of Technology**
+- 💻 Full-stack developer with strong focus on **React, Node.js, and APIs**
+- 🧠 Interested in **system design, security, and scalable web applications**
+- 🎹 Learning to play the keyboard (slowly but consistently)
+- 🌐 Know more about me: **[Portfolio](https://divyansh-jain.com)**
 
-<a href="https://www.linkedin.com/in/divyanshjain777/" target="blank"><img align="center" src="icons/linkedin.svg" alt="Divyansh" width="22px" /></a>
-<br />
-### I am...
-* 🎓 Currently pursuing my masters degree in IT from Warsaw University of Technology
-<!-- * 🔭 Currently working on few three.js or WebGL projects -->
-* 🌱 Currently learning react-three-fiber/Three.JS and 3D modelling)
-* 🎹 learning to play keyboard
-* 📄 Get to know more about me from my **[Portfolio](https://divyansh-jain.xyz)**
+---
 
-<!-- ### Recent achievements and Certifications 🏆 -->
+### 🛠️ Tech Stack
 
-<!-- * 🥉  -->
-
-
-### Languages and Frameworks
-
-
-<img align="left" src="icons/nodejs-icon.svg"  margin="10px" width="35px"/>
-<img align="left" src="icons/react.svg" margin="10px" width="35px" />
-<img align="left" src="icons/expressjs.png" margin="10px" width="110px" />
-<img align="left" src="icons/logo-javascript.svg" margin="10px" width="35px"/> 
-<img align="left" src="icons/python.png" margin="10px" width="35px" />
-<img align="left" src="icons/php.svg"   margin="10px" width="55px"/>
-<img align="left" src="icons/azure.png" margin="10px" width="35px" />
-<img align="left" src="icons/wit.png" margin="10px" width="35px" />
-<img align="left" src="icons/luis.png" margin="10px" width="35px" />
-<img align="left" src="icons/botframework.png" margin="10px" width="35px" />
-<img align="left" src="icons/bootstrap.svg" margin="10px" width="35px" />
-<img align="left" src="icons/visual-studio-code.svg"   margin="10px" width="35px"/>
-<img align="left" src="icons/docker.png"   margin="10px" width="45px"/>
-
+<p align="left">
+  <img src="icons/react.svg" width="35px" />
+  <img src="icons/nodejs-icon.svg" width="35px" />
+  <img src="icons/expressjs.png" width="110px" />
+  <img src="icons/logo-javascript.svg" width="35px" />
+  <img src="icons/python.png" width="35px" />
+  <img src="icons/php.svg" width="55px" />
+  <img src="icons/docker.png" width="45px" />
+  <img src="icons/azure.png" width="35px" />
+  <img src="icons/bootstrap.svg" width="35px" />
+  <img src="icons/visual-studio-code.svg" width="35px" />
+</p>
 
 <br />
-<br />
-<br />
-<!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/overview.svg) -->
 
-<!-- ![](https://raw.githubusercontent.com/diveshkswn/github-stats-transparent/output/generated/languages.svg) -->
-<!-- https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,issues -->
+<p align="left">
+  <img src="icons/wit.png" width="35px" />
+  <img src="icons/luis.png" width="35px" />
+  <img src="icons/botframework.png" width="35px" />
+</p>
 
-<!-- <a href="https://github.com/BlackDranzer777/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&theme=transparent&hide=contribs,issues,prs" />
-</a> -->
-<br />
-<br />
-<a href="https://github.com/BlackDranzer777/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDranzer777&layout=pie&theme=transparent" />
-</a>
+---
 
+### 📊 Languages Used
 
-<!---
-BlackDranzer777/BlackDranzer777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDranzer777&layout=pie&theme=transparent" />
+</p>
+
+---
+
+⭐ *I enjoy building clean, practical solutions and continuously improving my engineering fundamentals.*
