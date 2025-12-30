@@ -43,11 +43,6 @@
 
 ---
 
-### 📊 Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackDranzer777&layout=pie&theme=transparent" />
-</p>
 
 ---
 
