@@ -2,7 +2,7 @@
 <h4 align="center">Full-Stack Developer | React • Node.js • Python</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/divyanshjain777/" target="_blank">
+  <a href="https://www.linkedin.com/in/divyansh-jain-eth/" target="_blank">
     <img src="icons/linkedin.svg" alt="LinkedIn" width="22px" />
   </a>
 </p>
