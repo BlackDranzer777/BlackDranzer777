@@ -14,7 +14,7 @@
 - 💻 Full-stack developer with strong focus on **React, Node.js, and APIs**
 - 🧠 Interested in **system design, security, and scalable web applications**
 - 🎹 Learning to play the keyboard (slowly but consistently)
-- 🌐 Know more about me: **[Portfolio](https://divyansh-jain.com)**
+- 🌐 Know more about me: **[Portfolio](https://divyanshjain.com)**
 
 ---
 
