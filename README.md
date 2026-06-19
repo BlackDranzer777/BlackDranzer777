@@ -1,45 +1,80 @@
-<h2 align="center">Hi 👋, I'm Divyansh (aka BlackDranzer)</h2>
-<h4 align="center">Full-Stack Developer | React • Node.js • Python</h4>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/divyansh-jain-eth/" target="_blank">
-    <img src="icons/linkedin.svg" alt="LinkedIn" width="22px" />
-  </a>
-</p>
+```
+> initializing profile…
+> handle ........ BlackDranzer
+> identity ...... [partially redacted]
+> status ........ surfacing
+```
+
+# Hi 👋 — I'm Divyansh
+
+**Some people read the documentation. I read the things underneath it.**
+
+`Full-Stack` · `Security` · `Systems` — based in Warsaw, somewhere between a terminal and a thesis defense.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Master’s student in **Information Technology** at **Warsaw University of Technology**
-- 💻 Full-stack developer with strong focus on **React, Node.js, and APIs**
-- 🧠 Interested in **system design, security, and scalable web applications**
-- 🎹 Learning to play the keyboard (slowly but consistently)
-- 🌐 Know more about me: **[Portfolio](https://divyanshjain.com)**
+### 🜲 About — what the logs will tell you
+
+- 🎓 MSc in **Information Technology** @ Warsaw University of Technology
+- 🧪 Full-stack by trade — **React · TypeScript · Node · Python** — but happiest where the abstractions leak
+- 🛡️ I spend a suspicious amount of time **inspecting traffic that wasn't meant to be read** *(authorized, always — CCEH)*
+- 🌐 Four human languages, slowly bargaining with a fifth (`Polish`), still negotiating with `regex`
+- ☕ I also run a cold-brew operation called **Rosoway**. Ask me nothing. Or everything.
+
+> *"The truth is usually in the request you didn't think to inspect."*
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ The Arsenal
 
-<p align="left">
-  <img src="icons/react.svg" width="35px" />
-  <img src="icons/nodejs-icon.svg" width="35px" />
-  <img src="icons/expressjs.png" width="110px" />
-  <img src="icons/logo-javascript.svg" width="35px" />
-  <img src="icons/python.png" width="35px" />
-  <img src="icons/php.svg" width="55px" />
-  <img src="icons/docker.png" width="45px" />
-  <img src="icons/azure.png" width="35px" />
-  <img src="icons/bootstrap.svg" width="35px" />
-  <img src="icons/visual-studio-code.svg" width="35px" />
-</p>
+<div align="center">
 
-<br />
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,express,python,php,vite,supabase,electron,docker,azure,bootstrap,vscode,git&theme=dark&perline=8)](https://skillicons.dev)
 
-<p align="left">
-  <img src="icons/wit.png" width="35px" />
-  <img src="icons/luis.png" width="35px" />
-  <img src="icons/botframework.png" width="35px" />
-</p>
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat&logoColor=white)
 
+</div>
 
-⭐ *I enjoy building clean, practical solutions and continuously improving my engineering fundamentals.*
+**Tools I keep in the dark:**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=gnometerminal&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C3E50?style=flat&logo=metasploit&logoColor=white)
+
+---
+
+### 🜍 Currently Surfacing
+
+- **`Legilimens`** — a Burp-shaped instrument for reading **WebTransport / QUIC** the way a Legilimens reads a mind: quietly, completely, in real time.
+- **`Cloak`** — a browser built to *disappear*. Trackers blocked, headers stripped, DNS gone quiet.
+- **`Python WebTransport`** — a clean library for the people `aioquic` left in the cold.
+
+<sub>Some are public. Some aren't. You'll know when they want to be found.</sub>
+
+---
+
+### 🌙 When the editor closes
+
+- ⚽ I play football like the score depends on it
+- 🎸 Guitar and ukulele — instruments I'm still convincing
+- 🧭 Languages, coffee, and the occasional 2 a.m. architecture rabbit hole
+
+---
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&hide_border=true&theme=tokyonight)
+
+`Some build in the open. I prefer the parts that don't show up in the diff.`
+
+</div>
