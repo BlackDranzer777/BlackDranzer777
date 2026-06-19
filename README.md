@@ -21,7 +21,6 @@
 - 🧪 Full-stack by trade — **React · TypeScript · Node · Python** — but happiest where the abstractions leak
 - 🛡️ I spend a suspicious amount of time **inspecting traffic that wasn't meant to be read** *(authorized, always — CCEH)*
 - 🌐 Four human languages, slowly bargaining with a fifth (`Polish`), still negotiating with `regex`
-- ☕ I also run a cold-brew operation called **Rosoway**. Ask me nothing. Or everything.
 
 > *"The truth is usually in the request you didn't think to inspect."*
 
