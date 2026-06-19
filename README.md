@@ -1,13 +1,8 @@
 <div align="center">
 
-```
-> initializing profile…
-> handle ........ BlackDranzer
-> identity ...... [partially redacted]
-> status ........ surfacing
-```
 
-# Hi 👋 — I'm Divyansh
+
+# Hi 👋 — I'm Dranzer
 
 **Some people read the documentation. I read the things underneath it.**
 
@@ -70,11 +65,3 @@
 - 🧭 Languages, coffee, and the occasional 2 a.m. architecture rabbit hole
 
 ---
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackDranzer777&show_icons=true&hide_border=true&theme=tokyonight)
-
-`Some build in the open. I prefer the parts that don't show up in the diff.`
-
-</div>
